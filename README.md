@@ -51,6 +51,7 @@ That's all. You can start using the package.
 | `:psthx`, `:pashtothx`, `:pashtothanks` | ډیره مننه |
 | `:fathx`, `:persianthx`, `:persianthanks` | متشکرم |
 | `:plthx`, `:polishthx`, `:polishthanks` | Dzięki |
+| `:ptthx`, `:portuguesethx`, `:portuguesethanks` | Obrigado |
 | `:rothx`, `:romanianthx`, `:romanianthanks` | Multumesc |
 | `:esthx`, `:spanishthx`, `:spanishthanks` | Gracias |
 | `:svthx`, `:swedishthx`, `:swedishthanks` | Tack |
